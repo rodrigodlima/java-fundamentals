@@ -1,0 +1,1 @@
+In Java, the Scanner class is present in the java.util package is used to obtain input for primitive types like int, double, etc., and strings. We can use this class to read input from a user or a file. In this article, we cover how to take different input values from the user using the Scanner class.
